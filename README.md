@@ -1,6 +1,6 @@
 # Projeto Banco de Dados Interclasse
 
-Projeto feito por: Olavo, Dahra, Isabelle, Duda Berto, Miriam e Maria
+Projeto feito por: Olavo, Dahra, Isabelle, Duda Berto, Miriam, Eloá e Maria
 
 ```
 drop database if exists interclasse_sesi2024;
